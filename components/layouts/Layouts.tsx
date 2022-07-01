@@ -17,7 +17,7 @@ const Layouts = ({ children }: any) => {
           <div className={styles.header}>
             <div className="logo">
               {/* <img src="./img/logo.png" alt="" /> */}
-              <h2>Huệ Fashion</h2>
+              <h2>Huệ's Fashion</h2>
             </div>
             <nav>
               <Link href={"/"}>
@@ -64,11 +64,8 @@ const Layouts = ({ children }: any) => {
       <footer>
         <div className="container">
           <div className="wrapper">
-            <h3>Hồng Vic</h3>
-            <p>
-              ĐỊA CHỈ: 144 QUANG TRUNG, HÀ ĐÔNG, HÀ NỘI <br /> CS1: 354 THÁI HÀ, ĐỐNG ĐA, HÀ NỘI. <br /> CS2: 144 QUANG
-              TRUNG, HÀ ĐÔNG. <br /> CƠ SỞ 3 : SỐ 04 XUÂN THỦY
-            </p>
+            <h3>Huệ's Fashion</h3>
+            <p>Địa chỉ: 198 Âu Cơ Thị trấn Ngã Giao, Huyện Châu Đức, Bà Rịa Vũng Tàu</p>
           </div>
           <div className="wrapper">
             <span>power by Q</span>
