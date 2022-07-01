@@ -68,7 +68,7 @@ const Layouts = ({ children }: any) => {
             <p>Địa chỉ: 198 Âu Cơ Thị trấn Ngã Giao, Huyện Châu Đức, Bà Rịa Vũng Tàu</p>
           </div>
           <div className="wrapper">
-            <span>power by Q</span>
+            <span>Pham Su Tien Trinh</span>
           </div>
         </div>
       </footer>
