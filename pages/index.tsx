@@ -29,7 +29,7 @@ const Home: NextPage = () => {
                     </div>
                     <div className="content">
                       <h4>{item.name}</h4>
-                      <p>{item.price}</p>
+                      {/* <p>{item.price}</p> */}
                     </div>
                   </div>
                 </div>
