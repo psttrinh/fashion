@@ -16,7 +16,8 @@ const Layouts = ({ children }: any) => {
         <div className="container">
           <div className={styles.header}>
             <div className="logo">
-              <img src="./img/logo.png" alt="" />
+              {/* <img src="./img/logo.png" alt="" /> */}
+              <h2>Huệ Fashion</h2>
             </div>
             <nav>
               <Link href={"/"}>
