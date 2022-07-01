@@ -26,9 +26,9 @@ const Product: NextPage = () => {
               <h3>
                 Tên sản phẩm: <span>{product?.name}</span>
               </h3>
-              <h3>
+              {/* <h3>
                 Giá tiền: <span>{product?.price}</span>
-              </h3>
+              </h3> */}
               <p>
                 Bình chọn: <span>{product?.rating}</span>
               </p>
