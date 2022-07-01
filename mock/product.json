@@ -63,6 +63,15 @@
       "price": "300000",
       "description": "Bộ quần áo được thiết kế sang trọng, với những chất liệu được chọn lọc bởi tay nghề của các nghệ nhân có tâm. Cùng đội ngũ chuyên nghiệp, chúng tôi mang lại cho người mua một sản phẩm vừa hợp thời trang, vừa có giá phải chăng.",
       "rating": "5"
+    },
+    {
+      "id": "9",
+      "img": "./img/product/product8.jpg",
+      "name": "Full set quan ao",
+      "price": "300000",
+      "description": "Bộ quần áo được thiết kế sang trọng, với những chất liệu được chọn lọc bởi tay nghề của các nghệ nhân có tâm. Cùng đội ngũ chuyên nghiệp, chúng tôi mang lại cho người mua một sản phẩm vừa hợp thời trang, vừa có giá phải chăng.",
+      "rating": "5"
     }
+
   ]
 }
