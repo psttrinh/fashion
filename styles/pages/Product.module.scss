@@ -1,0 +1,47 @@
+.sc_product {
+  padding-top: 60px;
+
+  .wrapper {
+    display: flex;
+
+    .img_wrapper {
+      width: 50%;
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .content {
+      width: 50%;
+      padding-left: 12px;
+      h3 {
+        font-weight: 400;
+        span {
+          font-size: 28px;
+          font-weight: 500;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 750px) {
+    .wrapper {
+      flex-direction: column;
+      .img_wrapper {
+        width: 100%;
+      }
+      .content {
+        width: 100%;
+      }
+    }
+  }
+}
+
+.sc_prodescription {
+  padding-top: 20px;
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
